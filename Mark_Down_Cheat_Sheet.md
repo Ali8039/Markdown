@@ -156,5 +156,4 @@ From Iris Data Set
 
 # 13- Install Extensions
 
-Sample text
- 
+i did not install extensions 
